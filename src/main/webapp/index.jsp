@@ -6,9 +6,13 @@
 <body>
   <h3>Choose an author:</h3>
   <form method="get">
-    <input type="checkbox" name="author" value="Tan Ah Teck">Tan
-    <input type="checkbox" name="author" value="Mohd Ali">Ali
-    <input type="checkbox" name="author" value="Kumar">Kumar
+    <input type="checkbox" name="author" value="Sunil Devops support">Sunil
+    <input type="checkbox" name="author" value="Kamalesh cloud support">kamalesh
+    <input type="checkbox" name="author" value="ad support">ramganesh
+    <input type="checkbox" name="author" value="AD Eng">Nandha
+    <input type="checkbox" name="author" value="Devops Srn eng">sudhakar
+    <input type="checkbox" name="author" value="cloud sr eng">Sakthi      
+      
     <input type="submit" value="Query">
   </form>
  
